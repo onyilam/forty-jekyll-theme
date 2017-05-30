@@ -1,7 +1,7 @@
 ---
-title: Research
+title: Stories
 layout: landing
-description: My academic projects
+description: Some stories
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
