@@ -1,6 +1,6 @@
 # site settings
 title: Onyi Lam
-subtitle: Net precense
+subtitle: Net presence
 email: onyilam@gmail.com
 description: Social and Data Scientist. 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings
 500px_url:
