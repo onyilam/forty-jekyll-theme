@@ -68,6 +68,9 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
+		
+	</section>
+	<section>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
