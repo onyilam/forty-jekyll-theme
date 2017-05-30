@@ -6,4 +6,6 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-About
+About 關於 
+
+I am a computational social scientist at Pew Research Center.
