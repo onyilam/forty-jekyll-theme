@@ -1,10 +1,10 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Research
+landing-title: 'Research'
 description: null
 image: null
 author: null
 ---
 
-<h1>All posts</h1>
+<h1>Research</h1>
