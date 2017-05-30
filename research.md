@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>History textbooks provide a lens through which students view the nation's past. Government, especially that of authoritarian regime, has an incentive to present biased content in the history textbook to influence students' political views. This paper considers the problem of measuring subjectivity for history textbooks used in China, Hong Kong and Taiwan. Using sentiment analysis, I find empirical evidence that history textbooks in mainland China exhibit stronger degree of subjectivity than history textbooks used in Hong Kong and Taiwan. Specifically, the paper measures the adjective content in the textbook, the ratio of positive to negative words in specific time periods in history and employs word embedding method that measures distance from political entities of interest such as the Chinese Communist Party.</p>
 				<ul class="actions">
-					<li><a href="textbook.html" class="button">Learn more</a></li>
+					<li><a href= "https://onyilam.github.io/2017/05/30/textbook.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
