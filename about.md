@@ -8,4 +8,4 @@ nav-menu: true
 
 About 關於 
 
-I am a computational social scientist at Pew Research Center.
+I am a computational social scientist at Pew Research Center, where I use data to derive insights and understand social phenomenons. 
