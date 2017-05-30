@@ -1,8 +1,8 @@
 # site settings
-title: Onyi
-subtitle: personal page
+title: Onyi Lam
+subtitle: Net precense
 email: onyilam@gmail.com
-description: my net precense 
+description: Social and Data Scientist. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "onyilam.github.io" # the base hostname & protocol for your site
 author:
