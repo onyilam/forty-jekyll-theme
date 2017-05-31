@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://onyilam.github.io/2016/08/25/aliquam.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/adj_ratio.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
