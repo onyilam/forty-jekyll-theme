@@ -72,7 +72,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://onyilam.github.io/juvenile.pdf" class="image">
-			<img src="assets/images/juv_img.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/juv_img.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
