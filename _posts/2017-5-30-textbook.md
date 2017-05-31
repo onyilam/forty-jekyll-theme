@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Measuring Subjectivity in History Textbooks
-description: Ipsum dolor sit amet
+description: How do history textbooks in mainland China, Hong Kong and Taiwan differ?
 image: assets/images/adj_ratio.png
 ---
 
