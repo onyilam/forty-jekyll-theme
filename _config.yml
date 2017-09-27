@@ -1,8 +1,8 @@
 # site settings
 title: Onyi Lam
-subtitle: Net presence
+subtitle: My net presence
 email: onyilam@gmail.com
-description: Social and Data Scientist. 
+description: Computational Social Scientist. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "onyilam.github.io" # the base hostname & protocol for your site
 author:
