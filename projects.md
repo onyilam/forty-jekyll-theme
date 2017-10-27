@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="onyilam.github.io/uniform.html" class="image">
+		<a href="https://onyilam.github.io/2017/10/27/network.html" class="image">
 			<img src="assets/images/military.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>This is the first neural network I trained using 1983 images of individuals in uniform, and 1697 of random images. The model achieves 90% accuracy, which is not great for production but decent on my first foray into neural networks. The motivation comes from wanting to understand whether certain media outlets are more likely to post pictures of individuals in uniform to emphasize a certain viewpoint. The link details my experience using Keras, and a little tool for you to upload an image to see how the model works. </p>
 				<ul class="actions">
-					<li><a href="onyilam.github.io/uniform.html" class="button">Learn more</a></li>
+					<li><a href="https://onyilam.github.io/2017/10/27/network.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
