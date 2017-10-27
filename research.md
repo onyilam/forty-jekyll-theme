@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://onyilam.github.io/2016/08/25/aliquam.html" class="image">
+		<a href="https://onyilam.github.io/newspaper.pdf" class="image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
