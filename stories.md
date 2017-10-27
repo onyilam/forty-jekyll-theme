@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Stories</h2>
 		</header>
-		<p> Occassionally, I write short stories in Chinese and English. </p>
+		<p> Occassionally, I write short stories. </p>
 	</div>
 </section>
 
