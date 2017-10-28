@@ -18,7 +18,8 @@
 	    	{% endif %}
 		{% endfor %}
 		{% for page in site.pages %}
-			{% if page.nav-menu == "true" %}
+		
+		    	{% if page.layout != "home" %}
 		        	<li><a href="{{ page.url  }}">{{ page.title }}</a></li>
 			{% endif %}
 		{% endfor %}
