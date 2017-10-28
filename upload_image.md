@@ -5,4 +5,5 @@ landing-title: 'Uniform or not?'
 description: null
 image: null
 author: null
+nav-menu: false
 ---
