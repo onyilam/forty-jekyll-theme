@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: Prediction
 landing-title: 'Model Prediction'
 description: null
