@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-description: About the about
+description: 
 image: assets/images/web_img1.JPG
 nav-menu: true
 ---
