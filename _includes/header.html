@@ -18,11 +18,9 @@
 	    	{% endif %}
 		{% endfor %}
 		{% for page in site.pages %}
-		    {% if page.layout != "home" %}
-			{% if page.nav-menu != "false" %}
+			{% if page.nav-menu == "true" %}
 		        	<li><a href="{{ page.url  }}">{{ page.title }}</a></li>
 			{% endif %}
-		    {% endif %}
 		{% endfor %}
 	</ul>
 
