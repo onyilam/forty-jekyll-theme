@@ -19,9 +19,10 @@
 		{% endfor %}
 		{% for page in site.pages %}
 		    	{% if page.layout != "home" %}
-		
 		   		 {% if page.title != "Prediction" %}
-		        		<li><a href="{{ page.url  }}">{{ page.title }}</a></li>
+					{% if page.layout != "upload_image" %}
+		        			<li><a href="{{ page.url  }}">{{ page.title }}</a></li>
+					{% endif %}
 				{% endif %}
 			{% endif %}
 		{% endfor %}
