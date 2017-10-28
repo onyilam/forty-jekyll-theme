@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+
+    
+    
+    {% include header.html %} 
+
+  <!-- Main -->
+<div id="main" class="alt">
+
+
+
+    <form action = "http://localhost:5000/uploader" method = "POST" enctype = "multipart/form-data">
+      <input type = "file" name = "file" /><br>
+      <input type = "submit"/>
+    </form>
+
+
+     
+</div>   
+
+    
+     {% include footer.html %}
+</body>
+
+
+</html>
