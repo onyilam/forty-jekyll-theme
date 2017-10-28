@@ -1,6 +1,6 @@
 ---
 layout: upload_image
-title: Home
+title: Upload your own image
 landing-title: 'Uniform or not?'
 description: null
 image: null
