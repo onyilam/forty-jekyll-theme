@@ -1,7 +1,7 @@
 ---
-title: Stories
+title: Other Writings
 layout: landing
-description: Some stories
+description: Other Writings
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
