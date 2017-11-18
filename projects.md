@@ -37,6 +37,23 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	
+	<section>
+		<a href="https://onyilam.github.io/2017/10/27/network.html" class="image">
+			<img src="assets/images/tohoku.jpeg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Assessing Demographic Shock to Economic Recovery</h3>
+				</header>
+				<p> This projects investigates the effect of a sudden demographic shock on intensity of economic activity. Demographics and macroeconomics interact and evolve in complementarity with each other and it is usually very difficult to disentangle the causal effect of demography on the economy. Studying Japan after the earthquake and tsunami in 2011 gives us this opportunity. We use the night light emission data to estimate the region’s economic recovery relative to year 2010. Our result suggests that death rate due to the disaster affects the subsequent economic recovery. The result is significant to 0.1% level. Furthermore, we found some evidence that the death rate of the elderly (65+) is insignificant in explaining recovery once we control for the 15-64 age group. Overall, demographic shock appears to only have a very transient effect on recovery.</p>
+				<ul class="actions">
+					<li><a href="https://onyilam.github.io/tohoku.pdf" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 
 <!-- Three -->
 
