@@ -54,6 +54,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="https://onyilam.github.io/juvenile.pdf" class="image">
+			<img src="assets/images/juv_img.png" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Preventing Juvenile Interactions with the Criminal Justice System</h3>
+				</header>
+				<p>Juvenile offense can have severe detrimental effects on various life outcomes. Study has found that that early childhood intervention programs help to reduce future delinquency (Reynolds et al. 2001, Zigler et al. 1992), suggesting the benefit of identify at-risk children at a early stage. The current early warning system in the Milwaukee Public School is a heuristic approach based largely on teachers' intuition and experience. In this paper, we describe our work with the ShareData platform in the city of Milwaukee to develop a machine learning model to predict which students are at risk of interacting with the criminal justice system and the protective factors. Our approach significantly outperforms the heuristic method, identifying the same number of at-risk students while only flagging 33% as many students. Our work also sheds light on features related to family characteristics, and school performance that are predictive of juvenile interaction with the criminal justice system.</p>
+				<ul class="actions">
+					<li><a href="https://onyilam.github.io/juvenile.pdf" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 
 <!-- Three -->
 
