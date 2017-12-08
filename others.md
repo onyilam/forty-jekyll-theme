@@ -30,11 +30,10 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
+</section>
 	
 
 
 <!-- Three -->
 
 
-</div>
