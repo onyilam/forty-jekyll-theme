@@ -10,14 +10,6 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Other Writing</h2>
-		</header>
-		<p> Other writings </p>
-	</div>
-</section>
 
 
 
