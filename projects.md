@@ -59,6 +59,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+</section>
 
 <!-- Three -->
 
