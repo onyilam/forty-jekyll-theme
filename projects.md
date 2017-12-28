@@ -12,7 +12,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://onyilam.github.io/2017/10/27/network.html" class="image">
-			<img src="assets/images/military.jpg" alt="" data-position="center center" />
+			<img src="assets/images/military.jpeg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
