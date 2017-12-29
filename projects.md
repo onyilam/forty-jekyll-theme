@@ -19,7 +19,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Uniform or Not: An Image Classifier</h3>
 				</header>
-				<p>This is the first neural network I trained using 1983 images of individuals in uniform, and 1697 of random images. The model achieves 90% accuracy, which is not great for production but decent on my first foray into neural networks. The motivation comes from wanting to understand whether certain media outlets are more likely to post pictures of individuals in uniform to emphasize a certain viewpoint. The link details my experience using Keras, and a little tool for you to upload an image to see how the model works. </p>
+				<p>This is the first neural network I trained the model using 2048 images of individuals in uniform, and 1840 of random images. The model achieves 88% accuracy. The motivation comes from wanting to understand whether certain media outlets are more likely to post pictures of individuals in uniform to emphasize on a narrative that resonates or sympathizes with the authority. </p>
 				<ul class="actions">
 					<li><a href="https://onyilam.github.io/2017/10/27/network.html" class="button">Learn more</a></li>
 				</ul>
