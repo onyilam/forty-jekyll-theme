@@ -12,4 +12,4 @@ I am a computational social scientist at Pew Research Center, where I use data t
 
 And here is a urban dictionary definiton of <a href = "https://www.urbandictionary.com/define.php?term=onyi"> onyi </a>
 
-<a href="https://onyilam.github.io/CV.pdf" class="button">CV</a>
+<a href="https://onyilam.github.io/resume.pdf" class="button">Resume</a>
