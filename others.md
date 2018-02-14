@@ -26,6 +26,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+		<section>
+		<a href=" " class="image">
+			<img src=" " alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Congressional Facebook Posts</h3>
+				</header>
+				<p></p>
+				<ul class="actions">
+					<li><a href="" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 	
 
