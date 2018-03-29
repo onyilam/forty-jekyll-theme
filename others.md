@@ -17,11 +17,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>What Google Trends Tell Us About...</h3>
+					<h3>What Google Trends Tell Us About Americans' Interest in Guns</h3>
 				</header>
 				<p></p>
 				<ul class="actions">
-					<li><a href="" class="button">Learn more</a></li>
+					<li><a href="http://www.pewresearch.org/fact-tank/2018/03/16/what-google-searches-can-tell-us-about-americans-interest-in-guns/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
