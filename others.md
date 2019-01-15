@@ -22,6 +22,7 @@ nav-menu: true
 				<p></p>
 				<ul class="actions">
 					<li><a href="http://www.pewsocialtrends.org/2018/12/17/gender-and-jobs-in-online-image-searches/" class="button">Learn more</a></li>
+					<li>Covered by: CNN, WashingtonPost, MarketWatch</a></li>
 				</ul>
 			</div>
 		</div>
@@ -38,7 +39,7 @@ nav-menu: true
 				<p></p>
 				<ul class="actions">
 					<li><a href="http://www.pewresearch.org/fact-tank/2018/03/16/what-google-searches-can-tell-us-about-americans-interest-in-guns/" class="button">Learn more</a></li>
-					<li>Covered by: CNN, WashingtonPost, MarketWatch</a></li>
+					
 				</ul>
 			</div>
 		</div>
