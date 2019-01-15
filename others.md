@@ -17,6 +17,22 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
+					<h3>Gender and Jobs in Online Image Searches</h3>
+				</header>
+				<p></p>
+				<ul class="actions">
+					<li><a href="http://www.pewsocialtrends.org/2018/12/17/gender-and-jobs-in-online-image-searches/" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href=" " class="image">
+			<img src=" " alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
 					<h3>What Google Trends Tell Us About Americans' Interest in Guns</h3>
 				</header>
 				<p></p>
