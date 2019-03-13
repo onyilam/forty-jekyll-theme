@@ -17,6 +17,24 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
+					<h3>Distance to the Nearest Hospital</h3>
+				</header>
+				<p></p>
+				<ul class="actions">
+					<li><a href="http://www.pewresearch.org/fact-tank/2018/12/12/how-far-americans-live-from-the-closest-hospital-differs-by-community-type/" class="button">Learn more</a></li>
+					<li>Covered by: CityLab</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	
+	<section>
+		<a href=" " class="image">
+			<img src=" " alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
 					<h3>Gender and Jobs in Online Image Searches</h3>
 				</header>
 				<p></p>
