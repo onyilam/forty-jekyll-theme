@@ -22,7 +22,7 @@ nav-menu: true
 				<p></p>
 				<ul class="actions">
 					<li><a href="http://www.pewresearch.org/fact-tank/2018/12/12/how-far-americans-live-from-the-closest-hospital-differs-by-community-type/" class="button">Learn more</a></li>
-					<li>Covered by: CityLab</a></li>
+					<li>Covered by: CityLab</li>
 				</ul>
 			</div>
 		</div>
