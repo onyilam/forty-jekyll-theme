@@ -40,7 +40,7 @@ nav-menu: true
 				<p></p>
 				<ul class="actions">
 					<li><a href="http://www.pewsocialtrends.org/2018/12/17/gender-and-jobs-in-online-image-searches/" class="button">Learn more</a></li>
-					<li>Covered by: CNN, WashingtonPost, MarketWatch</a></li>
+					<li>Covered by: CNN, USA Today,  MarketWatch, Mother Jones, WashingtonPost </li>
 				</ul>
 			</div>
 		</div>
