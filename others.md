@@ -30,7 +30,7 @@ nav-menu: true
 	
 	<section>
 		<a href=" " class="image">
-			<img src=" " alt="" data-position="center center" />
+			<img src="assets/images/gender_jobs.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
