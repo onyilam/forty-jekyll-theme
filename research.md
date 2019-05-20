@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>My research</h2>
 		</header>
-		<p> I am interested in both theoretical and empirical work in political, public and applied microeconomics. In addition, I am interested in finding  social science application(s) of data science and machine learning.</p>
+		<p> I am interested in both theoretical and empirical work in political, public and applied microeconomics. In addition, I am interested in finding application(s) of data science and machine learning.</p>
 	</div>
 </section>
 
@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://onyilam.github.io/newspaper.pdf" class="image">
-			<img src="assets/images/pic08.jpg" width="375" height="220" alt="" data-position="center center" />
+			<img src="assets/images/pic08.jpg" width="375" height="320" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,8 +39,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="https://onyilam.github.io/2016/08/25/aliquam.html" class="image">
-			<img src="assets/images/adj_ratio.png" width="375" height="220" alt="" data-position="top center" />
+		<a href="" class="image">
+			<img src="assets/images/adj_ratio.png" width="375" height="320" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -58,7 +58,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://onyilam.github.io/2016/08/25/aliquam.html" class="image">
-			<img src="assets/images/pic10.jpg" width="375" height="220" alt="" data-position="25% 25%" />
+			<img src="assets/images/pic10.jpg" width="375" height="320" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
