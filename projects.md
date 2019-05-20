@@ -12,7 +12,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://onyilam.github.io/2019/05/20/paper.html" class="image">
-			<img src="assets/images/paper.png" width="375" height="220" alt="" data-position="center center" />
+			<img src="assets/images/paper.png" width="375" height="320" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -29,7 +29,7 @@ nav-menu: true
 	
 	<section>
 		<a href="https://onyilam.github.io/2017/10/27/network.html" class="image">
-			<img src="assets/images/military.jpeg" width="375" height="220" alt="" data-position="center center" />
+			<img src="assets/images/military.jpeg" width="375" height="320" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -46,7 +46,7 @@ nav-menu: true
 	
 	<section>
 		<a href="https://onyilam.github.io/2017/10/27/network.html" class="image">
-			<img src="assets/images/tohoku.jpeg" width="375" height="220" alt="" data-position="center center" />
+			<img src="assets/images/tohoku.jpeg" width="375" height="320" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -62,7 +62,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://onyilam.github.io/juvenile.pdf" class="image">
-			<img src="assets/images/juv_img.png" width="375" height="220" alt="" data-position="25% 25%" />
+			<img src="assets/images/juv_img.png" width="375" height="320" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
