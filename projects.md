@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: Misc. work or non-work related projects I work on
+description: Misc. work or non-work related projects
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -9,7 +9,26 @@ nav-menu: true
 
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<section id="two" class="simage">
+	<section>
+		<a href="https://onyilam.github.io/2019/05/20/paper.html" class="image">
+			<img src="assets/images/paper.png" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Jikan: An Academic Paper Recommendation Engine</h3>
+				</header>
+				<p> <strong>Jikan</strong> is an online tool designed to support researchers to perform systematic literature reviews. The underlying algorithm recommends papers for review to researchers based on the similarity of papers. </p>
+				<ul class="actions">
+					<li><a href="https://onyilam.github.io/2017/10/27/network.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	
+	
+<section id="two" class="image">
 	<section>
 		<a href="https://onyilam.github.io/2017/10/27/network.html" class="image">
 			<img src="assets/images/military.jpeg" alt="" data-position="center center" />
