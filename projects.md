@@ -9,7 +9,7 @@ nav-menu: true
 
 
 <!-- Two -->
-<section id="two" class="simage">
+<section id="two" class="image">
 	<section>
 		<a href="https://onyilam.github.io/2019/05/20/paper.html" class="image">
 			<img src="assets/images/paper.png" alt="" data-position="center center" />
@@ -21,7 +21,7 @@ nav-menu: true
 				</header>
 				<p> <strong>Jikan</strong> is an online tool designed to support researchers to perform systematic literature reviews. The underlying algorithm recommends papers for review to researchers based on the similarity of papers. </p>
 				<ul class="actions">
-					<li><a href="https://onyilam.github.io/2017/10/27/network.html" class="button">Learn more</a></li>
+					<li><a href="https://onyilam.github.io/2019/05/20/paper.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
