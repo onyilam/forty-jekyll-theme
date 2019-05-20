@@ -9,7 +9,7 @@ nav-menu: true
 
 
 <!-- Two -->
-<section id="two" class="image">
+<section id="two" class="spotlights">
 	<section>
 		<a href="https://onyilam.github.io/2019/05/20/paper.html" class="image">
 			<img src="assets/images/paper.png" width="375" height="220" alt="" data-position="center center" />
