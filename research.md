@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://onyilam.github.io/newspaper.pdf" class="image">
-			<img src="assets/images/pic08.jpg" width="375" height="320" alt="" data-position="center center" />
+			<img src="assets/images/pic08.jpg" width="375" height="360" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -40,7 +40,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="" class="image">
-			<img src="assets/images/adj_ratio.png" width="375" height="320" alt="" data-position="top center" />
+			<img src="assets/images/adj_ratio.png" width="375" height="360" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -58,7 +58,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://onyilam.github.io/2016/08/25/aliquam.html" class="image">
-			<img src="assets/images/pic10.jpg" width="375" height="320" alt="" data-position="25% 25%" />
+			<img src="assets/images/pic10.jpg" width="375" height="360" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
