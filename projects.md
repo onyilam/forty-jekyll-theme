@@ -11,7 +11,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://onyilam.github.io/2019/05/20/paper.html" class="image">
+		<a href="https://onyilam.github.io/2019/5/20/paper.html" class="image">
 			<img src="assets/images/paper.png" width="375" height="320" alt="" data-position="center center" />
 		</a>
 		<div class="content">
