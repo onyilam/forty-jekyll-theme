@@ -12,7 +12,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href=" " class="image">
-			<img src="assets/images/hospital.png" alt="" data-position="center center" />
+			<img src="assets/images/hospital.png" width="375" height="220" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -30,7 +30,7 @@ nav-menu: true
 	
 	<section>
 		<a href=" " class="image">
-			<img src="assets/images/gender_jobs.png" alt="" data-position="center center" />
+			<img src="assets/images/gender_jobs.png" width="375" height="220" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -47,7 +47,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href=" " class="image">
-			<img src=" " alt="" data-position="center center" />
+			<img src="ssets/images/google_trends.png" width="375" height="220" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
