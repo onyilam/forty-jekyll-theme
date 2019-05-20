@@ -47,7 +47,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href=" " class="image">
-			<img src="ssets/images/google_trends.png" width="375" height="320" alt="" data-position="center center" />
+			<img src="assets/images/google_trends.png" width="375" height="320" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
