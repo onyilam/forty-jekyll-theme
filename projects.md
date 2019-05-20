@@ -12,7 +12,7 @@ nav-menu: true
 <section id="two" class="image">
 	<section>
 		<a href="https://onyilam.github.io/2019/05/20/paper.html" class="image">
-			<img src="assets/images/paper.png" alt="" data-position="center center" />
+			<img src="assets/images/paper.png" width="200" height="100" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
