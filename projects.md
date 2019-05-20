@@ -27,8 +27,6 @@ nav-menu: true
 		</div>
 	</section>
 	
-	
-<section id="two" class="image">
 	<section>
 		<a href="https://onyilam.github.io/2017/10/27/network.html" class="image">
 			<img src="assets/images/military.jpeg" width="375" height="220" alt="" data-position="center center" />
