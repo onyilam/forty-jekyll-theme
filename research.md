@@ -9,6 +9,26 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
+	
+	<section>
+		<a href=" " class="image">
+			<img src="assets/images/upr.png" width="375" height="320" alt="" data-position="center center"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>How countries reviewed each other's human rights records</h3>
+				</header>
+				<p>Under a peer-to-peer evaluation process established in the late 2000s, every member state in the United Nations faces a periodic review of its human rights record by countries on the UN Human Rights Council. But the issues raised in these reviews can vary substantially depending on which countries are doing the reviewing... </p>
+				<ul class="actions">
+					<li><a href="https://www.pewresearch.org/fact-tank/2019/03/20/countries-have-different-priorities-when-they-review-each-others-human-rights-records/" class="button">Learn more</a></li>
+					
+				</ul>
+			</div>
+		</div>
+	</section>
+	
+	
 	<section>
 		<a href=" " class="image">
 			<img src="assets/images/hospital.png" width="375" height="320" alt="" data-position="center center"/>
