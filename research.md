@@ -11,14 +11,14 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href=" " class="image">
-			<img src="assets/images/hospital.png" width="375" height="320" alt="" data-position="center center" />
+			<img src="assets/images/hospital.png" width="375" height="320" alt="" data-position="center center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Distance to the Nearest Hospital</h3>
 				</header>
-				<p><To conduct this analysis, we used the addresses of a random sample of over 10,000 Americans using Pew Research Center’s nationally representative American Trends Panel. We then calculated the linear distance between the respondent’s address and the hospitals, using hospital locations listed in a database known as Homeland Infrastructure Foundation-Level Data. The dataset contains a total of 7,570 hospitals, including 4,511 that are classified as “general acute care” hospitals, which are the focus of this analysis. After identifying the closest hospital by linear distance, researchers used the Google Maps API to calculate the travel time and distance to the nearest general acute care facility /p>
+				<p>To conduct this analysis, we used the addresses of a random sample of over 10,000 Americans using Pew Research Center’s nationally representative American Trends Panel. We then calculated the linear distance between the respondent’s address and the hospitals, using hospital locations listed in a database known as Homeland Infrastructure Foundation-Level Data. The dataset contains a total of 7,570 hospitals, including 4,511 that are classified as “general acute care” hospitals, which are the focus of this analysis. After identifying the closest hospital by linear distance, researchers used the Google Maps API to calculate the travel time and distance to the nearest general acute care facility </p>
 				<ul class="actions">
 					<li><a href="http://www.pewresearch.org/fact-tank/2018/12/12/how-far-americans-live-from-the-closest-hospital-differs-by-community-type/" class="button">Learn more</a></li>
 					<li>Covered by: CityLab</li>
@@ -44,8 +44,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	
-		<section>
+	<section>
 		<a href=" " class="image">
 			<img src="assets/images/google_trends.png" width="375" height="320" alt="" data-position="center center" />
 		</a>
