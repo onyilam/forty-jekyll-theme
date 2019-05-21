@@ -15,12 +15,48 @@ nav-menu: true
 		<header class="major">
 			<h2>My research</h2>
 		</header>
-		<p> I am interested in both theoretical and empirical work in political, public and applied microeconomics. In addition, I am interested in finding application(s) of data science and machine learning.</p>
+		<p>  Academic and non-academic work.</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
+	<section>
+		<a href=" " class="image">
+			<img src="assets/images/hospital.png" width="375" height="320" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Distance to the Nearest Hospital</h3>
+				</header>
+				<p></p>
+				<ul class="actions">
+					<li><a href="http://www.pewresearch.org/fact-tank/2018/12/12/how-far-americans-live-from-the-closest-hospital-differs-by-community-type/" class="button">Learn more</a></li>
+					<li>Covered by: CityLab</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	
+	<section>
+		<a href=" " class="image">
+			<img src="assets/images/gender_jobs.png" width="375" height="320" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Gender and Jobs in Online Image Searches</h3>
+				</header>
+				<p></p>
+				<ul class="actions">
+					<li><a href="http://www.pewsocialtrends.org/2018/12/17/gender-and-jobs-in-online-image-searches/" class="button">Learn more</a></li>
+					<li>Covered by: CNN, USA Today,  MarketWatch, Mother Jones, WashingtonPost </li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	
 	<section>
 		<a href="https://onyilam.github.io/newspaper.pdf" class="image">
 			<img src="assets/images/pic08.jpg" width="375" height="360" alt="" data-position="center center" />
