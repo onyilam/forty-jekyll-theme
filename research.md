@@ -9,15 +9,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>My research</h2>
-		</header>
-		<p>  Academic and non-academic work.</p>
-	</div>
-</section>
+
 
 <!-- Two -->
 <section id="two" class="spotlights">
