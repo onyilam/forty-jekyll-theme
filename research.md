@@ -48,7 +48,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Gender and Jobs in Online Image Searches</h3>
 				</header>
-				<p></p>
+				<p>We trained and deployed a deep learning model using transfer learning to analyze a broad sample of images from Google Image Search that depict men and women working common jobs. We then compared those results with real-world data about the gender composition of the U.S. workforce. The study finds that the share of each gender pictured varies widely across the spectrum of careers tested. But in the majority of jobs examined, women are somewhat underrepresented in online images relative to their actual participation rates in those jobs in the United States, based on 2017 Bureau of Labor Statistics data. Across all individuals shown in the search results, men appear 60% of the time. And, when women appear, they appear lower in the search results than men.</p>
 				<ul class="actions">
 					<li><a href="http://www.pewsocialtrends.org/2018/12/17/gender-and-jobs-in-online-image-searches/" class="button">Learn more</a></li>
 					<li>Covered by: CNN, USA Today,  MarketWatch, Mother Jones, WashingtonPost </li>
