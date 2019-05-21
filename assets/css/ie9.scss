@@ -66,7 +66,7 @@
 /* Banner */
 
 	#banner {
-		@include padding(6em, 0, (1em, 0, 0, 0));
+		@include padding(6em, 2em, (1em, 1em, 1em, 1em));
 		background-attachment: scroll;
 		height: auto;
 		max-height: none;
