@@ -76,7 +76,7 @@ nav-menu: true
 	</section>
 			<section>
 		<a href=" " class="image">
-			<img src=" " alt="" data-position="center center" />
+			<img src="assets/images/congress.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
