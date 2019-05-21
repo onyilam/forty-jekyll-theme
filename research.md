@@ -12,7 +12,7 @@ nav-menu: true
 	
 	<section>
 		<a href=" " class="image">
-			<img src="assets/images/upr.png" width="375" height="320" alt="" data-position="center center"/>
+			<img src="assets/images/upr.png" width="375" height="360" alt="" data-position="center center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -31,7 +31,7 @@ nav-menu: true
 	
 	<section>
 		<a href=" " class="image">
-			<img src="assets/images/hospital.png" width="375" height="320" alt="" data-position="center center"/>
+			<img src="assets/images/hospital.png" width="375" height="360" alt="" data-position="center center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -130,22 +130,6 @@ nav-menu: true
 					<li> Media Coverage: <a href = "https://www.bbc.com/zhongwen/trad/world-45195207"> BBC </a> </li>
 				</ul>
 				
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="https://onyilam.github.io/2016/08/25/aliquam.html" class="image">
-			<img src="assets/images/pic10.jpg" width="375" height="360" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Celebrities Capture: Evidence from Weibo</h3>
-				</header>
-				<p>The advent of the digital age has created both challenges and opportunities for au- thoritarian regime. This paper shows that popular Chinese celebrities, especially those from the entertainment industry, are more likely to express patriotic sentiment on Weibo, a Twitter-like social network tool in China than less popular ones. The tendency to post patriotic messages is also highly correlated with the intensity of government promotion of the celebrity. To understand the empirical findings, we propose a simple model to show that dependency on government media to secure economic interest aligns the celebrities interest with that of the state.</p>
-				<ul class="actions">
-					<li><a href="https://onyilam.github.io/weibo.pdf" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 		
