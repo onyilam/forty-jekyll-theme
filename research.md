@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Distance to the Nearest Hospital</h3>
 				</header>
-				<p></p>
+				<p><To conduct this analysis, we used the addresses of a random sample of over 10,000 Americans using Pew Research Center’s nationally representative American Trends Panel. We then calculated the linear distance between the respondent’s address and the hospitals, using hospital locations listed in a database known as Homeland Infrastructure Foundation-Level Data. The dataset contains a total of 7,570 hospitals, including 4,511 that are classified as “general acute care” hospitals, which are the focus of this analysis. After identifying the closest hospital by linear distance, researchers used the Google Maps API to calculate the travel time and distance to the nearest general acute care facility /p>
 				<ul class="actions">
 					<li><a href="http://www.pewresearch.org/fact-tank/2018/12/12/how-far-americans-live-from-the-closest-hospital-differs-by-community-type/" class="button">Learn more</a></li>
 					<li>Covered by: CityLab</li>
@@ -66,7 +66,7 @@ nav-menu: true
 				<header class="major">
 					<h3>What Google Trends Tell Us About Americans' Interest in Guns</h3>
 				</header>
-				<p></p>
+				<p>We analyzed trends in U.S. Google keyword searches for 416 specific gun model names, compiled from two sources: GunBroker.com, an online gun auction website, and the American Firearms Institute, a gun rights advocacy website that provides information about firearms. While not exhaustive, the list includes many popular handguns and rifles. By focusing on the models of guns Americans are searching for, we sought to learn more about the public’s interest in guns as potential consumer products, rather than as a subject of general interest. </p>
 				<ul class="actions">
 					<li><a href="http://www.pewresearch.org/fact-tank/2018/03/16/what-google-searches-can-tell-us-about-americans-interest-in-guns/" class="button">Learn more</a></li>
 					
@@ -83,7 +83,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Congressional Facebook Posts</h3>
 				</header>
-				<p></p>
+				<p>This analysis finds that the most liberal and conservative members of the 115th Congress have attracted more Facebook followers than moderates. To estimate the number of followers for each member, we obtained the total number of page likes for every member of Congress using data from Facebook’s API for their official Facebook accounts.  </p>
 				<ul class="actions">
 					<li><a href="https://www.pewresearch.org/fact-tank/2017/08/21/highly-ideological-members-of-congress-have-more-facebook-followers-than-moderates-do/" class="button">Learn more</a></li>
 				</ul>
