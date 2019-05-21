@@ -11,7 +11,7 @@ city: Washington
 state: DC
 zip_code:
 country: United States of America
-phone: 
+#phone: 
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -24,7 +24,7 @@ github_url: https://github.com/onyilam
 gitlab_url: 
 googleplus_url:
 instagram_url:
-linkedin_url:
+linkedin_url: https://www.linkedin.com/in/onyi-lam-a635516/
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/onyilam
