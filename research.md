@@ -1,14 +1,10 @@
 ---
 title: Research
 layout: landing
-description: My academic projects
+description: My academic and non-academic research
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
-
-<!-- Main -->
-<div id="main">
-
 
 
 <!-- Two -->
@@ -138,7 +134,4 @@ nav-menu: true
 	
 </section>
 
-<!-- Three -->
 
-
-</div>
