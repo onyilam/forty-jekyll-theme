@@ -8,7 +8,7 @@ nav-menu: true
 
 About 關於 
 
-I am a computational social scientist at Pew Research Center, where I use data to derive insights and understand social phenomenons.  Before that, I studied Economics in San Diego.
+I am a research scientist at FiscalNote, where I use machine learning and NLP to derive insight from data.  Before that, I studied Economics in San Diego.
 
 I also wrote turotials on my medium account: <a href = "https://medium.com/@onyilam" class="button"> Link </a>
 
