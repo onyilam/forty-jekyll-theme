@@ -7,6 +7,6 @@ image: null
 author: null
 ---
 
-I am a computational social scientist at the Pew Research Center, where I use data to derive insights and understand social phenomenons. 
+I am a researcg scientist at FiscalNote, where I use machine learning and NLP to derive insight from data. 
 
 All views and comments are my own.
