@@ -7,6 +7,4 @@ image: null
 author: null
 ---
 
-I am a researcg scientist at FiscalNote, where I use machine learning and NLP to derive insight from data. 
-
-All views and comments are my own.
+I am currently a research scientist at FiscalNote, an issue management startup located in the DC area. I conduct research using techniques in machine learning and NLP. My preferred language is Python, though I am not against R. I am also trying my hands on Spark these days. 
