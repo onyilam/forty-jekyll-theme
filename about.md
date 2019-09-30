@@ -8,7 +8,7 @@ nav-menu: true
 
 About 關於 
 
-I am currently a research scientist at FiscalNote, an issue management startup located in the DC area. I conduct research using techniques in machine learning and NLP. My preferred language is Python, though I am not against R. I am also trying my hands on Spark these days.
+I am currently a research scientist at FiscalNote. I conduct research to extract insights out from legislative and regulatory data. My preferred language is Python, though I am not against R. I am also trying my hands on Spark these days.
 
 I also wrote turotials on my medium account: <a href = "https://medium.com/@onyilam" class="button"> Link </a>
 
